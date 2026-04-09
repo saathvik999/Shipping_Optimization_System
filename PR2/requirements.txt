@@ -3,6 +3,6 @@ pandas
 numpy
 joblib
 folium
-streamlit-folium
 geopy
 scikit-learn
+streamlit-folium
